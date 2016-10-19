@@ -1,4 +1,4 @@
-FROM webandco/ubuntu-supervisor:latest
+FROM webandco/ubuntu-supervisor:14.04
 MAINTAINER David Spiola <david(at)webandco.com>
 
 ADD root /
